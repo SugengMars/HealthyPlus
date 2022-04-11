@@ -1,0 +1,15 @@
+C:\Users\asus\Downloads\semester 3\UAS\bahan\HealPlus_Project\HealPlus_App\bin\Debug\HealPlus_App.exe.config
+C:\Users\asus\Downloads\semester 3\UAS\bahan\HealPlus_Project\HealPlus_App\bin\Debug\HealPlus_App.exe
+C:\Users\asus\Downloads\semester 3\UAS\bahan\HealPlus_Project\HealPlus_App\bin\Debug\HealPlus_App.pdb
+C:\Users\asus\Downloads\semester 3\UAS\bahan\HealPlus_Project\HealPlus_App\obj\Debug\HealPlus_App.csprojAssemblyReference.cache
+C:\Users\asus\Downloads\semester 3\UAS\bahan\HealPlus_Project\HealPlus_App\obj\Debug\MainWindow.g.cs
+C:\Users\asus\Downloads\semester 3\UAS\bahan\HealPlus_Project\HealPlus_App\obj\Debug\App.g.cs
+C:\Users\asus\Downloads\semester 3\UAS\bahan\HealPlus_Project\HealPlus_App\obj\Debug\HealPlus_App_MarkupCompile.cache
+C:\Users\asus\Downloads\semester 3\UAS\bahan\HealPlus_Project\HealPlus_App\obj\Debug\HealPlus_App_MarkupCompile.lref
+C:\Users\asus\Downloads\semester 3\UAS\bahan\HealPlus_Project\HealPlus_App\obj\Debug\MainWindow.baml
+C:\Users\asus\Downloads\semester 3\UAS\bahan\HealPlus_Project\HealPlus_App\obj\Debug\HealPlus_App.g.resources
+C:\Users\asus\Downloads\semester 3\UAS\bahan\HealPlus_Project\HealPlus_App\obj\Debug\HealPlus_App.Properties.Resources.resources
+C:\Users\asus\Downloads\semester 3\UAS\bahan\HealPlus_Project\HealPlus_App\obj\Debug\HealPlus_App.csproj.GenerateResource.cache
+C:\Users\asus\Downloads\semester 3\UAS\bahan\HealPlus_Project\HealPlus_App\obj\Debug\HealPlus_App.csproj.CoreCompileInputs.cache
+C:\Users\asus\Downloads\semester 3\UAS\bahan\HealPlus_Project\HealPlus_App\obj\Debug\HealPlus_App.exe
+C:\Users\asus\Downloads\semester 3\UAS\bahan\HealPlus_Project\HealPlus_App\obj\Debug\HealPlus_App.pdb
